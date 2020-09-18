@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">EjercicioSemana3</string>
+    <string name="button">Entrar</string>
+    <string name="TextView">Bienvenido</string>
+</resources>
